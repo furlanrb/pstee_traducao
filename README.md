@@ -2,7 +2,7 @@ Repositório para manter o arquivo de tradução PT-BR e revisões do game Plane
 
 
 
-**Instalação:**
+**Instalação**
 
 
 **1** - Baixe o arquivo dialog.tlk (para baixar via navegador, clique no arquivo dialog.tlk acima, e então na próxima página clique no botão de download "Download raw file"). 
@@ -13,15 +13,26 @@ Repositório para manter o arquivo de tradução PT-BR e revisões do game Plane
 
 
 
-**Revisões:**
 
-Por favor, ao encontrar erros envie um print ou cópia do trecho para *furlanrb@gmail.com*, ou abra uma issue aqui no github.
+**Revisões**
+
+Por favor, ao encontrar erros ou sugestões de melhorias, envie um print ou cópia do trecho para *furlanrb@gmail.com*, ou abra uma issue aqui no github.
 
 
 
-**Agradecimentos:**
+
+**Agradecimentos**
 
 Igor Martins pela ajuda na extração dos diálogos.
+
+
+
+
+**Contato**
+
+Rafael Furlan
+furlanrb@gmail.com
+instagram: @furlanrb
 
 
 # pstee_traducao
