@@ -5,7 +5,7 @@ Repositório para manter o arquivo de tradução PT-BR e revisões do game Plane
 **Instalação:**
 
 
-**1** - Baixe o arquivo dialog.tlk
+**1** - Baixe o arquivo dialog.tlk (para baixar via navegador, clique no arquivo dialog.tlk acima, e então na próxima página cliqueno botão de download "Download raw file"). 
 
 **2** - Faça um backup do seu arquivo dialog.tlk que se encontra em caminho_do_jogo/game/lang/en_US/dialog.tlk
 
