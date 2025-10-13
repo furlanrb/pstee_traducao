@@ -16,7 +16,7 @@ Repositório para manter o arquivo de tradução PT-BR e revisões do game Plane
 
 **Revisões**
 
-Por favor, ao encontrar erros ou sugestões de melhorias, envie um print ou cópia do trecho para *furlanrb@gmail.com*, ou abra uma issue aqui no github.
+Por favor, ao encontrar erros ou ter sugestões de melhorias envie um print ou cópia do trecho para *furlanrb@gmail.com*, ou abra uma issue aqui no github.
 
 
 
