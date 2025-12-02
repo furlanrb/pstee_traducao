@@ -25,6 +25,7 @@ Por favor, ao encontrar erros ou ter sugestões de melhorias envie um print ou c
 
 Igor Martins pela ajuda na extração dos diálogos.
 
+Maik pelo apoio na revisão de erros gramaticais e bugs.
 
 
 
